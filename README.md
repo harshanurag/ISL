@@ -1,0 +1,1 @@
+Set of jupyter notebooks containing solutions to the problem in An Introduction to Statistical Learning by James et al. 2017 (7th print). The book and the data is officially available to download at https://statlearning.com/.
